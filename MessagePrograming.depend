@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1605977055 source:d:\code\c\datastructure\test4\messageprograming\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1606210539 source:d:\code\c\datastructure\test4\messageprograming\mainworking.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"UserProgram.h"
+	"AppProgram.h"
+
+1606119457 d:\code\c\datastructure\test4\messageprograming\userprogram.h
+
+1606210588 d:\code\c\datastructure\test4\messageprograming\appprogram.h
+
+1606119416 source:d:\code\c\datastructure\test4\messageprograming\userprogram.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"UserProgram.h"
+
+1606210557 source:d:\code\c\datastructure\test4\messageprograming\appprogram.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"AppProgram.h"
+	"UserProgram.h"
+
